@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/ahmedq2022/ahmedq2022/blob/main/C.png)
 <h1 align="center">Hi 👋, I'm Muhammad Ahmed Qureshi</h1>
 <h3 align="center">A passionate Software Developer from Pakistan</h3>
 
